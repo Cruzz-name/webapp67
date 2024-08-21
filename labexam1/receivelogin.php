@@ -26,9 +26,9 @@
     <div>
         <a href="profile.html"><img src="Iconmix.png" style="width: 220px; height: 250px;" ></a>
         
-        <a href="#"><img src="Iconmix.png" style="width: 220px; height: 250px;" ></a>
+        <a href="enterpiz.html"><img src="Iconmix.png" style="width: 220px; height: 250px;" ></a>
         
-        <a href="#"><img src="Iconmix.png" style="width: 220px; height: 250px;" ></a>
+        <a href="history.html"><img src="Iconmix.png" style="width: 220px; height: 250px;" ></a>
   
     </div>
     <div class="text1">ข้อมูลส่วนตัว</div>
