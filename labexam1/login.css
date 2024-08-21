@@ -1,0 +1,34 @@
+.loginbox {
+    
+    height: auto;
+    width: auto;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    background-color: salmon;
+    box-sizing: border-box;
+    border-radius: 16px;
+}
+.text1 {
+    position: absolute;
+    top: 293px;
+    left: 60px;
+    font-size: 18px;
+    font-weight: bold; 
+    color: rgb(38, 172, 255)
+}
+.text2 {
+    position: absolute;
+    top: 293px;
+    left: 252px;
+    font-size: 18px;
+    font-weight: bold; 
+    color: rgb(38, 172, 255)
+}
+.text3 {
+    position: absolute;
+    top: 293px;
+    left: 490px;
+    font-size: 18px;
+    font-weight: bold; 
+    color: rgb(38, 172, 255)
+}
